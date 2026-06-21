@@ -2,11 +2,16 @@
 
 > Next Generation URL & Parameter Discovery Tool for Bug Bounty Hunters & Security Researchers
 
+<div align="center">
+
 [![GitHub stars](https://img.shields.io/github/stars/Unknown-tech404/ParaSpider)](https://github.com/Unknown-tech404/ParaSpider/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Unknown-tech404/ParaSpider)](https://github.com/Unknown-tech404/ParaSpider/network)
 [![GitHub issues](https://img.shields.io/github/issues/Unknown-tech404/ParaSpider)](https://github.com/Unknown-tech404/ParaSpider/issues)
 [![GitHub license](https://img.shields.io/github/license/Unknown-tech404/ParaSpider)](https://github.com/Unknown-tech404/ParaSpider/blob/main/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Unknown-tech404/ParaSpider)](https://github.com/Unknown-tech404/ParaSpider/commits/main)
+[![Made in Bangladesh](https://img.shields.io/badge/Made%20in-Bangladesh-006747?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjIwIj48cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMjAiIGZpbGw9IiMwMDk5MzkIiAvPjxjaXJjbGUgY3g9IjEwIiBjeT0iMTAiIHI9IjUiIGZpbGw9IiNGNDJFM0YiIC8+PC9zdmc+)](https://github.com/Unknown-tech404/ParaSpider)
+
+</div>
 
 ---
 
