@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 // ================================================================
-// 🔥 ULTIMATE PARASPIDER v3.0 - TERMINAL EDITION
+// 🔥 PARASPIDER v3.0 - TERMINAL EDITION
 // ================================================================
 // Installation: 
 //   npm install axios chalk ora cli-progress
@@ -421,7 +421,7 @@ class UltimateParaSpiderCLI {
     // ----------------------------------------------------------------
     async scan() {
         log.header();
-        log.info(`${colors.bright}🔥 ULTIMATE PARASPIDER v3.0 - Terminal Edition${colors.reset}`);
+        log.info(`${colors.bright}🔥 PARASPIDER v3.0 - Terminal Edition${colors.reset}`);
         log.header();
         log.info(`📌 Target: ${colors.bright}${this.baseUrl}${colors.reset}`);
         log.info(`📌 Threads: ${this.options.threads}`);
@@ -550,7 +550,7 @@ async function main() {
     if (args.length === 0) {
         console.log(`
 ${colors.cyan}${'='.repeat(70)}${colors.reset}
-${colors.bright}🔥 ULTIMATE PARASPIDER v3.0 - Terminal Edition${colors.reset}
+${colors.bright}🔥 PARASPIDER v3.0 - Terminal Edition${colors.reset}
 ${colors.cyan}${'='.repeat(70)}${colors.reset}
 
 ${colors.yellow}Usage:${colors.reset}
