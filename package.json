@@ -1,7 +1,7 @@
 {
-  "name": "ultimate-paraspider",
+  "name": "paraspider",
   "version": "3.0.0",
-  "description": "🔥 Ultimate ParaSpider - Next Generation URL & Parameter Discovery Tool for Bug Bounty Hunters",
+  "description": "🔥 ParaSpider - Next Generation URL & Parameter Discovery Tool for Bug Bounty Hunters",
   "main": "paraspider.js",
   "bin": {
     "paraspider": "./paraspider.js"
