@@ -181,9 +181,15 @@ This tool is for **educational and authorized testing purposes only**. Use only 
 
 ---
 
-## 🌟 Star History
+## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Unknown-tech404/ParaSpider&type=Date)](https://star-history.com/#Unknown-tech404/ParaSpider&Date)
+<a href="https://www.star-history.com/?repos=Unknown-tech404%2FParaSpider&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Unknown-tech404/ParaSpider&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Unknown-tech404/ParaSpider&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Unknown-tech404/ParaSpider&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ---
 
