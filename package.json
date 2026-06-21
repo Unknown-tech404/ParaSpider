@@ -23,16 +23,16 @@
     "hacking-tool",
     "paraspider"
   ],
-  "author": "Your Name",
+  "author": "Unknown-tech404",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/Ultimate-ParaSpider.git"
+    "url": "https://github.com/Unknown-tech404/ParaSpider.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/Ultimate-ParaSpider/issues"
+    "url": "https://github.com/Unknown-tech404/ParaSpider/issues"
   },
-  "homepage": "https://github.com/yourusername/Ultimate-ParaSpider#readme",
+  "homepage": "https://github.com/Unknown-tech404/ParaSpider#readme",
   "dependencies": {
     "axios": "^1.6.0",
     "chalk": "^4.1.2",
