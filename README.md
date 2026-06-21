@@ -1,4 +1,4 @@
-# 🔥 Ultimate ParaSpider v3.0
+# 🔥 ParaSpider v3.0
 
 > Next Generation URL & Parameter Discovery Tool for Bug Bounty Hunters & Security Researchers
 
@@ -17,7 +17,7 @@
 
 ## 📌 Overview
 
-**Ultimate ParaSpider** is a powerful, multi-threaded URL and parameter discovery tool designed for bug bounty hunters and security researchers. It combines multiple wordlists and smart detection algorithms to find hidden admin panels, parameters, and endpoints.
+**ParaSpider** is a powerful, multi-threaded URL and parameter discovery tool designed for bug bounty hunters and security researchers. It combines multiple wordlists and smart detection algorithms to find hidden admin panels, parameters, and endpoints.
 
 ### ✨ Features
 
@@ -98,7 +98,7 @@ node paraspider.js https://target.com --verbose
 
 ```
 ======================================================================
-🔥 ULTIMATE PARASPIDER v3.0 - Terminal Edition
+🔥 ParaSpider v3.0 - Terminal Edition
 ======================================================================
 ℹ 📌 Target: https://target.com
 ℹ 📌 Threads: 10
